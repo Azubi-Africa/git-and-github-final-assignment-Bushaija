@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  -             |  - Ceasar Cipher RightShift            |https://github.com/Azubi-Africa/git-and-github-final-assignment-Bushaija/tree/main/ceasarCipherRightShift       |
+| 2 |  -             |  - Linear Search            | https://github.com/Azubi-Africa/git-and-github-final-assignment-Bushaija/tree/main/linearSearch       |
+| 3 |  -             |  - Sort Array            | https://github.com/Azubi-Africa/git-and-github-final-assignment-Bushaija/tree/main/sortArray      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
