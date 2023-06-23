@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Ceasar Cipher Encoding simple Project            |  - A Caesar cipher is a simple method of encoding messages. Caesar ciphers use a substitution method where letters in the alphabet are shifted by some fixed number of spaces to yield an encoding alphabet. A Caesar cipher with a shift of 1 would encode an A as a B, an M as an N, and a Z as an A, and so on            |https://github.com/Azubi-Africa/git-and-github-final-assignment-Bushaija/tree/main/ceasarCipherRightShift       |
+| 2 |  - Linear Search            |  - A linear search is the simplest approach employed to search for an element in a data set. It examines each element until it finds a match, starting at the beginning of the data set, until the end. The search is finished and terminated once the target element is located.            | https://github.com/Azubi-Africa/git-and-github-final-assignment-Bushaija/tree/main/linearSearch       |
+| 3 |  - Sort Array            |  - A Sorting Algorithm is used to rearrange a given array or list of elements according to a comparison operator on the elements           | https://github.com/Azubi-Africa/git-and-github-final-assignment-Bushaija/tree/main/sortArray      |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
